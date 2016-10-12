@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NestBee</string>
+
+    <string name="title_survey">Ваши интересы</string>
+
+    <string name="label_active">Searching… Tap to stop</string>
+    <string name="label_inactive">Tap to find a new meeting</string>
+    <string name="label_to_meetup">Tap to enter meetup screen</string>
+    <string name="not_enough_info">Not enough info…</string>
+</resources>

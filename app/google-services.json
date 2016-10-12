@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "853310234802",
+    "firebase_url": "https://onyx-cumulus-145819.firebaseio.com",
+    "project_id": "onyx-cumulus-145819",
+    "storage_bucket": "onyx-cumulus-145819.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853310234802:android:653af2e6dc7a510e",
+        "android_client_info": {
+          "package_name": "com.mhw.nestbee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853310234802-mr54d6pcmhv2nd7t82sm5majbg3aiv63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBOeZrYIlAqyGC33aXjtp0AU8-hRrheWY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#EEEEEE"
+    tools:context="com.mhw.nestbee.TestActivity">
+
+    <com.mhw.nestbee.view.NestBeeMap
+        android:id="@+id/nestbeeMap"
+        android:src="@drawable/nestbee_map"
+        android:layout_width="match_parent"
+        android:layout_height="230dp" />
+
+</RelativeLayout>
